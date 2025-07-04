@@ -16,9 +16,12 @@
 
 
 ### 👋 Merhaba! Ben Emir Kıvrak
-🎓 Bilgisayar Mühendisliği mezunuyum ve backend geliştirme alanına odaklanıyorum. Kod yazmayı, problem çözmeyi ve yeni teknolojiler öğrenmeyi seviyorum.
-Hedefim, ölçeklenebilir, güvenli ve sürdürülebilir sistemler geliştirerek gerçek dünya problemlerine etkili çözümler sunmak. Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
 
+🎓 Bilgisayar Mühendisliği mezunuyum ve backend geliştirme alanına odaklanıyorum. Kod yazmayı, problem çözmeyi ve yeni teknolojiler öğrenmeyi seviyorum.  
+Hedefim, ölçeklenebilir, güvenli ve sürdürülebilir sistemler geliştirerek gerçek dünya problemlerine etkili çözümler sunmak.  
+Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
+
+📫 Bana ulaşmak için: **emirkvrak.00@gmail.com**
 
 ---
 
