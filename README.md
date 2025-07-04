@@ -124,3 +124,9 @@ Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emirkvrak/emirkvrak/output/github-snake-dark.svg" alt="GitHub Snake" />
+</div>
+
