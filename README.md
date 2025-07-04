@@ -36,7 +36,7 @@ Hedefim, ölçeklenebilir, güvenli ve sürdürülebilir sistemler geliştirerek
         </a>
       </td>
       <td align="center" style="padding: 15px;">
-        <a href="https://www.instagram.com/emirkvrak/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/emir.kvrak/" target="_blank" rel="noopener noreferrer">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" /><br/>
           <sub><b>Instagram</b></sub>
         </a>
