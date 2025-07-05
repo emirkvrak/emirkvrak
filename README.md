@@ -79,7 +79,7 @@ I continuously strive to improve myself and learn something new every day.
       <img src="https://skillicons.dev/icons?i=docker,git" />
     </td>
     <td align="center" valign="middle" style="padding-left: 40px;">
-      <img src="https://github.com/emirkvrak/emirkvrak/blob/main/coding.gif?raw=true" width="250px" alt="Coding gif" />
+      <img src="https://raw.githubusercontent.com/emirkvrak/emirkvrak/main/coding.gif" width="250px" alt="Coding gif" />
     </td>
   </tr>
 </table>
