@@ -1,24 +1,24 @@
-<!-- Profile banner -->
-![MasterHead](https://github.com/emirkvrak/emirkvrak/blob/main/MyBenner.png)
+<!-- Profil bannerı -->
+![MasterHead](https://raw.githubusercontent.com/emirkvrak/emirkvrak/main/MyBenner.png)
 
-<!-- Profile views counter -->
+<!-- Profil görüntüleme sayacı -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=emirkvrak&color=blue" alt="Profile Views"/>
 </p>
 
-<!-- Typing animation -->
+<!-- Merkezde animasyonlu yazı -->
 <div align="center">
   <a href="https://github.com/emirkvrak">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Emir+K%C4%B1vrak+%E2%9C%A8;%F0%9F%93%9A+Computer+Engineer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Coding GIF (right aligned) -->
+<!-- Kodlama GIF'i -->
 <div align="center">
-  <img src="https://github.com/emirkvrak/emirkvrak/blob/main/MyCoder.gif" alt="Coding" width="200" />
+  <img src="https://raw.githubusercontent.com/emirkvrak/emirkvrak/main/MyCoder.gif" alt="Coding" width="200" />
 </div>
 
-<!-- About Me -->
+<!-- Hakkımda -->
 <h3 align="center">👋 Hi there! I'm Emir Kıvrak</h3>
 
 <p align="center">
@@ -31,6 +31,7 @@ I continuously strive to improve myself and learn something new every day.
 <p align="center">📫 Reach me at: <strong>emirkvrak.00@gmail.com</strong></p>
 
 ---
+
 
 <!-- Social Media -->
 <h3 align="center">🌐 Connect with me 🌐</h3>
