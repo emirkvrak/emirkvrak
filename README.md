@@ -1,35 +1,41 @@
+<!-- Profile banner -->
 ![MasterHead](https://github.com/emirkvrak/emirkvrak/blob/main/MyBenner.png)
 
+<!-- Profile views counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=emirkvrak&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=emirkvrak&color=blue" alt="Profile Views"/>
 </p>
 
+<!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/emirkvrak">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Emir+K%C4%B1vrak+%E2%9C%A8;%F0%9F%93%9A+Computer+Engineer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="left">
-  <img src="https://github.com/emirkvrak/emirkvrak/blob/main/MyCoder.gif" alt="Coding" width="200" align="right"/>
+<!-- Coding GIF (right aligned) -->
+<div align="center">
+  <img src="https://github.com/emirkvrak/emirkvrak/blob/main/MyCoder.gif" alt="Coding" width="200" />
 </div>
 
+<!-- About Me -->
+<h3 align="center">👋 Hi there! I'm Emir Kıvrak</h3>
 
-### 👋 Merhaba! Ben Emir Kıvrak
+<p align="center">
+🎓 I am a Computer Engineering graduate, mainly focused on backend development.  
+I enjoy coding, solving problems, and learning new technologies.  
+My goal is to build scalable, secure, and sustainable systems that provide effective solutions to real-world problems.  
+I continuously strive to improve myself and learn something new every day.  
+</p>
 
-🎓 Bilgisayar Mühendisliği mezunuyum ve backend geliştirme alanına odaklanıyorum. Kod yazmayı, problem çözmeyi ve yeni teknolojiler öğrenmeyi seviyorum.  
-Hedefim, ölçeklenebilir, güvenli ve sürdürülebilir sistemler geliştirerek gerçek dünya problemlerine etkili çözümler sunmak.  
-Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
-
-📫 Bana ulaşmak için: **emirkvrak.00@gmail.com**
+<p align="center">📫 Reach me at: <strong>emirkvrak.00@gmail.com</strong></p>
 
 ---
 
-
-### 🌐 Sosyal Medya
+<!-- Social Media -->
+<h3 align="center">🌐 Connect with me 🌐</h3>
 
 <div align="center">
-
   <table>
     <tr>
       <td align="center" style="padding: 15px;">
@@ -52,49 +58,35 @@ Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
       </td>
     </tr>
   </table>
-
 </div>
-
 
 ---
 
-
-### 💻 Diller ve Teknolojiler
-
+<!-- Technologies -->
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
 <table align="center">
   <tr>
-    <!-- Sol taraf: Diller ve Teknolojiler -->
     <td align="center" valign="middle">
-      <h3>💻 Diller ve Teknolojiler</h3>
-      <h4>Programlama Dilleri</h4>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <h4>Framework & Kütüphaneler</h4>
-      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <h4>Veritabanları</h4>
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <h4>Araçlar & Platformlar</h4>
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+      <h4>Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=python,java" />
+      <h4>Frameworks & Libraries</h4>
+      <img src="https://skillicons.dev/icons?i=react,flask,spring,tailwind" />
+      <h4>Databases</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+      <h4>Tools & Platforms</h4>
+      <img src="https://skillicons.dev/icons?i=docker,git" />
     </td>
-    <!-- Sağ taraf: GIF -->
     <td align="center" valign="middle" style="padding-left: 40px;">
       <img src="https://github.com/emirkvrak/emirkvrak/blob/main/coding.gif?raw=true" width="250px" alt="Coding gif" />
     </td>
   </tr>
 </table>
 
-
-
-
 ---
 
-
-### 📊 GitHub İstatistikleri
+<!-- GitHub Stats -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <table align="center">
   <tr>
@@ -106,7 +98,6 @@ Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
       />
     </td>
   </tr>
-  
   <tr>
     <td align="center">
       <img 
@@ -125,8 +116,7 @@ Her gün kendimi geliştirmeye ve yeni şeyler öğrenmeye devam ediyorum.
   </tr>
 </table>
 
-
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/emirkvrak/emirkvrak/output/github-snake-dark.svg" alt="GitHub Snake" />
 </div>
-
