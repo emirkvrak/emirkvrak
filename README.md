@@ -22,13 +22,16 @@
 <h3 align="center">👋 Hi there! I'm Emir Kıvrak</h3>
 
 <p align="center">
-🎓 I am a Computer Engineering graduate, mainly focused on backend development.  
-I enjoy coding, solving problems, and learning new technologies.  
-My goal is to build scalable, secure, and sustainable systems that provide effective solutions to real-world problems.  
-I continuously strive to improve myself and learn something new every day.  
+🎓 I am a Computer Engineering graduate, mainly focused on backend development.<br>
+I enjoy coding, solving problems, and learning new technologies.<br>
+My goal is to build scalable, secure, and sustainable systems that provide effective solutions to real-world problems.<br>
+I continuously strive to improve myself and learn something new every day.
 </p>
 
-<p align="center">📫 Reach me at: <strong>emirkvrak.00@gmail.com</strong></p>
+<p align="center">
+📫 Reach me at: <strong>emirkvrak.00@gmail.com</strong><br>
+🌐 Website: <a href="https://emirkivrak.onrender.com/" target="_blank">https://emirkivrak.onrender.com/</a>
+</p>
 
 ---
 
