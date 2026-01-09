@@ -1,85 +1,43 @@
-<!-- Profil bannerı -->
-![MasterHead](https://raw.githubusercontent.com/emirkvrak/emirkvrak/main/MyBenner.png)
+
 
 <!-- Profil görüntüleme sayacı -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=emirkvrak&color=blue" alt="Profile Views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emirkvrak&color=2ea44f&style=flat" alt="Profile Views"/>
 </p>
-
-<!-- Merkezde animasyonlu yazı -->
-<div align="center">
-  <a href="https://github.com/emirkvrak">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Emir+K%C4%B1vrak+%E2%9C%A8;%F0%9F%93%9A+Computer+Engineer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Kodlama GIF'i -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/emirkvrak/emirkvrak/main/MyCoder.gif" alt="Coding" width="200" />
-</div>
 
 <!-- Hakkımda -->
-<h3 align="center">👋 Hi there! I'm Emir Kıvrak</h3>
+<h1 align="center">Hi, I'm Emir</h1>
 
 <p align="center">
-🎓 I am a Computer Engineering graduate, mainly focused on backend development.<br>
-I enjoy coding, solving problems, and learning new technologies.<br>
-My goal is to build scalable, secure, and sustainable systems that provide effective solutions to real-world problems.<br>
-I continuously strive to improve myself and learn something new every day.
+🎓 Computer Engineering graduate with a focus on software development. I enjoy building scalable, sustainable systems that solve real-world problems, and I care about clean code, strong architecture, and continuous learning.
 </p>
 
 <p align="center">
-📫 Reach me at: <strong>emirkvrak.00@gmail.com</strong><br>
-🌐 Website: <a href="https://emirkivrak.onrender.com/" target="_blank">https://emirkivrak.onrender.com/</a>
+  <a href="https://emirkivrak.onrender.com/" target="_blank" rel="noopener noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/Website-emirkivrak.onrender.com-111?style=for-the-badge">
+  </a>
+  <a href="mailto:emirkvrak.00@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-emirkvrak.00%40gmail.com-111?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/emirkvrak/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-emirkvrak-111?style=for-the-badge">
+  </a>
 </p>
 
----
+<h2 align="center">Skills</h2>
 
-
-<!-- Social Media -->
-<h3 align="center">🌐 Connect with me 🌐</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <a href="https://www.linkedin.com/in/emirkvrak/" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /><br/>
-          <sub><b>LinkedIn</b></sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="https://www.instagram.com/emir.kvrak/" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" /><br/>
-          <sub><b>Instagram</b></sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <a href="mailto:emirkvrak.00@gmail.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="30" width="40" alt="Email" /><br/>
-          <sub><b>Email</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Technologies -->
-<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <table align="center">
   <tr>
     <td align="center" valign="middle">
       <h4>Programming Languages</h4>
-      <img src="https://skillicons.dev/icons?i=python,java" />
+      <img src="https://skillicons.dev/icons?i=python,c,cs" />
       <h4>Frameworks & Libraries</h4>
-      <img src="https://skillicons.dev/icons?i=react,flask,spring,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vue" />
       <h4>Databases</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+      <img src="https://skillicons.dev/icons?i=postgres" />
       <h4>Tools & Platforms</h4>
-      <img src="https://skillicons.dev/icons?i=docker,git" />
+      <img src="https://skillicons.dev/icons?i=docker,git,postman" />
     </td>
     <td align="center" valign="middle" style="padding-left: 40px;">
       <img src="https://raw.githubusercontent.com/emirkvrak/emirkvrak/main/coding.gif" width="250px" alt="Coding gif" />
@@ -87,38 +45,31 @@ I continuously strive to improve myself and learn something new every day.
   </tr>
 </table>
 
----
+
 
 <!-- GitHub Stats -->
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">GitHub Stats</h2>
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirkvrak&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=71c7ec&text_color=ffffff"
-        width="360" height="150"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=emirkvrak&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=71c7ec&text_color=ffffff&icon_color=71c7ec"
-        width="420" height="200"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=emirkvrak&hide_border=true&background=0D1B2A&ring=71C7EC&fire=71C7EC&currStreakLabel=71C7EC&sideNums=ffffff&sideLabels=71C7EC&dates=ffffff"
-        width="420" height="200"
-        alt="Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=emirkvrak&show_icons=true&theme=dark"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emirkvrak&layout=compact&theme=dark"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=emirkvrak&theme=dark"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
 
 <!-- Snake Animation -->
 <div align="center">
