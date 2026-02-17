@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://emirkivrak.onrender.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://emirkivrak.com/" target="_blank" rel="noopener noreferrer">
     <img alt="Website" src="https://img.shields.io/badge/Website-emirkivrak.onrender.com-111?style=for-the-badge">
   </a>
   <a href="mailto:emirkvrak.00@gmail.com">
