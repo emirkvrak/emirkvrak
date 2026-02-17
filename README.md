@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://emirkivrak.com/" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/Website-emirkivrak.onrender.com-111?style=for-the-badge">
+    <img alt="Website" src="https://img.shields.io/badge/Website-emirkivrak.com-111?style=for-the-badge">
   </a>
   <a href="mailto:emirkvrak.00@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-emirkvrak.00%40gmail.com-111?style=for-the-badge">
