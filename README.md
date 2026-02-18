@@ -31,9 +31,9 @@
   <tr>
     <td align="center" valign="middle">
       <h4>Programming Languages</h4>
-      <img src="https://skillicons.dev/icons?i=python,c,cs" />
+      <img src="https://skillicons.dev/icons?i=python,cs,javascript" />
       <h4>Frameworks & Libraries</h4>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,vue" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,nodejs" />
       <h4>Databases</h4>
       <img src="https://skillicons.dev/icons?i=postgres" />
       <h4>Tools & Platforms</h4>
