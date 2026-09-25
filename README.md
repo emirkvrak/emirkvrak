@@ -55,5 +55,5 @@ Geçmişte Python ile görüntü işleme ve sensör verisi işleme projeleri gel
 ---
 
 <p align="center">
-  <i>Kodlarımı ve projelerimi incelemek için zaman ayırdığınız için teşekkür ederim.</i>
+  <i>© 2026 Emir Kıvrak | Kodlarımı ve projelerimi incelemek için zaman ayırdığınız için teşekkür ederim.</i>
 </p>
