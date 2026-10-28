@@ -44,12 +44,12 @@ Geçmişte Python ile görüntü işleme ve sensör verisi işleme projeleri gel
 ## GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=emirkvrak&show_icons=true&theme=dark&card_width=375" width="375" height="160" alt="GitHub İstatistikleri">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emirkvrak&layout=compact&theme=dark&card_width=375" width="375" height="160" alt="En Çok Kullanılan Diller">
+  <img src="https://github-stats-extended.vercel.app/api?username=emirkvrak&show_icons=true&theme=dark&card_width=375" width="375" height="195" alt="GitHub İstatistikleri">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=emirkvrak&layout=compact&theme=dark&card_width=375&langs_count=8" width="375" height="195" alt="En Çok Kullanılan Diller">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=emirkvrak&theme=dark&card_width=375" width="375" height="160" alt="GitHub Serisi">
+  <img src="https://streak-stats.demolab.com?user=emirkvrak&theme=dark&card_width=375&card_height=195" width="375" height="195" alt="GitHub Serisi">
 </p>
 
 ---
