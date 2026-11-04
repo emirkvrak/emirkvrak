@@ -1,7 +1,7 @@
 <h1 align="center">Emir Kıvrak</h1>
 
 <p align="center">
-  <a href="https://www.emirkivrak.com/?utm_source=github&utm_medium=profile&utm_campaign=portfolio">
+  <a href="https://www.emirkivrak.com/">
     <img alt="Web Sitesi" src="https://img.shields.io/badge/Web_Sitesi-emirkivrak.com-24292F?style=flat-square&logo=googlechrome&logoColor=white">                 
   </a>
   <a href="https://www.linkedin.com/in/emirkvrak/">
